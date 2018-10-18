@@ -1,0 +1,48 @@
+.nav-wrapper,.page-footer
+{
+    background-image: linear-gradient(to left, #aacead, #e66b7f );
+    
+}
+#img
+{
+    height:50px;
+    width:50px;
+    padding: 5px;
+    margin-top:5px;
+}
+
+
+   
+
+.card-image
+{
+    background-image: url("images/class.jpg");
+    height:40vh !important;
+    width:100%;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    background-repeat: no-repeat;
+}
+
+section
+{
+    display:flex;
+    padding: 0;
+    margin:0px;
+}
+.team
+{
+
+    height:300px;
+    width:400px !important;
+}
+.carousel
+{
+    margin-bottom:16px;
+}
+h1
+{
+    color:#b94a57;
+}
+
